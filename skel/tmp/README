@@ -1,0 +1,30 @@
+Name: Claudiu-Marian Chelcea
+Class: 332 CA
+Email: claudiu.chelcea@stud.acs.upb.ro
+
+This is an marketplace where producers can publish products and consumers
+can add them to their carts and place orders.
+
+Features:
+
+* Producers
+Register to the marketplace.
+Publish products.
+Specify the number of products to be published at once.
+Specify a waiting time after publishing a product.
+
+* Consumers
+Create a cart.
+Add products to the cart.
+Remove products from the cart.
+Place orders.
+
+* Marketplace
+Maintain a list of registered producers.
+Maintain a list of registered consumers.
+Maintain a list of products and their producers.
+Maintain a queue for each producer.
+Limit the number of products that can be in the queue for each producer.
+Implement locks to synchronize access to products in the marketplace.
+
+* Unit testing and functional testing
