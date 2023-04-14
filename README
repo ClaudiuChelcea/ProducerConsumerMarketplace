@@ -26,5 +26,3 @@ Maintain a list of products and their producers.
 Maintain a queue for each producer.
 Limit the number of products that can be in the queue for each producer.
 Implement locks to synchronize access to products in the marketplace.
-
-* Unit testing and functional testing
